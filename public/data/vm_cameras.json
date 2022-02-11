@@ -1,0 +1,66 @@
+[{
+        "id": "1",
+        "added_date": "2022-02-09 23:46:21",
+        "user_id": "1001",
+        "title": "\u00c7ay\u0131rova Kent Meydan\u0131",
+        "tvkur_id": "c6v3suj84cnued13bc50",
+        "tvkur_player_src": "https://player.tvkur.com/l/c6v3suj84cnued13bc50",
+        "poster_img": "",
+        "latitude": "40.8146906",
+        "longitude": "29.337499",
+        "list_order": "3",
+        "status": "1"
+    },
+    {
+        "id": "2",
+        "added_date": "2022-02-09 23:48:55",
+        "user_id": "1001",
+        "title": "Derince Kent Meydan\u0131",
+        "tvkur_id": "c5o1kg1oaiv44j88g6o0",
+        "tvkur_player_src": "https://player.tvkur.com/l/c5o1kg1oaiv44j88g6o0",
+        "poster_img": "",
+        "latitude": "40.7575925",
+        "longitude": "29.8286647",
+        "list_order": "2",
+        "status": "1"
+    },
+    {
+        "id": "3",
+        "added_date": "2022-02-09 00:00:00",
+        "user_id": "1001",
+        "title": "G\u00f6lc\u00fck Erikli Tepe Tabiat Park\u0131",
+        "tvkur_id": "c71j7e7bb2nts4egsqsg",
+        "tvkur_player_src": "https://player.tvkur.com/l/c71j7e7bb2nts4egsqsg",
+        "poster_img": "",
+        "latitude": "40.6030513",
+        "longitude": "29.7926928",
+        "list_order": "1",
+        "status": "1"
+    },
+    {
+        "id": "4",
+        "added_date": "2022-02-10 00:26:59",
+        "user_id": "1001",
+        "title": "Karamursel Sahil",
+        "tvkur_id": "c5o1k91oaiv44j88g6n0",
+        "tvkur_player_src": "https://player.tvkur.com/l/c5o1k91oaiv44j88g6n0",
+        "poster_img": "",
+        "latitude": "40.6952051",
+        "longitude": "29.6149647",
+        "list_order": "4",
+        "status": "1"
+    },
+    {
+        "id": "5",
+        "added_date": "2022-02-10 00:29:43",
+        "user_id": "1001",
+        "title": "G\u00f6lc\u00fck An\u0131t Park",
+        "tvkur_id": "c5o1fr9oaiv44j88g6m0",
+        "tvkur_player_src": "https://player.tvkur.com/l/c5o1fr9oaiv44j88g6m0",
+        "poster_img": "",
+        "latitude": "40.7202465",
+        "longitude": "29.8192163",
+        "list_order": "5",
+        "status": "1"
+    }
+]
